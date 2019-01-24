@@ -26,3 +26,7 @@ Your client needs an interactive To Do List to manage projects!
 ## Clear entire list button 
 
 ## Clear only completed items button
+
+## Psuedo Code
+
+Your project lead put together some [pseudo code for you here](pseudocode_suggestions.md)
